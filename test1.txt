@@ -1,6 +1,4 @@
 abcdefgh
-<<<<<<< HEAD
-two
-=======
-one
->>>>>>> 848dbbb7e391da7d932cca2b1da1c9113841e8dc
+
+
+
