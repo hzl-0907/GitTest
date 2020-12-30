@@ -71,8 +71,6 @@ public class AdminProductController extends BaseController {
         return "admin/productManagePage";
     }
 
-	//222
-	
     //按条件查询产品-ajax
     @ResponseBody
     @RequestMapping(value = "admin/product/{index}/{count}", method = RequestMethod.GET, produces = "application/json;charset=utf-8")
