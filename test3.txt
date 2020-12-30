@@ -2,3 +2,5 @@
 加油哟！！！
 gogogo！！！
 123！！！
+function add(){
+}
