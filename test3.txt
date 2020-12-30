@@ -6,7 +6,12 @@ function add(){
 }
 <<<<<<< HEAD
 9999
+<<<<<<< HEAD
 =======
 66666
 5555
 >>>>>>> b7628f4459ad03dbd86b05b1cfd7a09101a5fb47
+=======
+function add(){
+}
+>>>>>>> 5ab27e2c4c5822ef6693a7e76951904a650d0f8e
