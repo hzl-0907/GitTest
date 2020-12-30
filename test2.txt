@@ -1,0 +1,6 @@
+﻿﻿欢迎您使用Git！！！！
+test2加油哟！！！
+gogogo！！！
+123！！！
+function add(){
+}
