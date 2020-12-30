@@ -5,3 +5,5 @@ gogogo！！！
 function add(){
 }
 9999
+function add(){
+}
