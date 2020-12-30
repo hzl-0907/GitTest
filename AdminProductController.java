@@ -40,6 +40,8 @@ public class AdminProductController extends BaseController {
     @Resource
     private PropertyService propertyService;
 
+	//111
+
     //查询所有产品-ajax
     @RequestMapping(value = "admin/product")
     public String getToPage(HttpSession session, Model model) {
@@ -69,6 +71,8 @@ public class AdminProductController extends BaseController {
         return "admin/productManagePage";
     }
 
+	//222
+	
     //按条件查询产品-ajax
     @ResponseBody
     @RequestMapping(value = "admin/product/{index}/{count}", method = RequestMethod.GET, produces = "application/json;charset=utf-8")
