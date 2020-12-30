@@ -122,6 +122,8 @@ public class AdminProductController extends BaseController {
         return object.toJSONString();
     }
 
+	//333
+	
     //产品详情页-ajax
     @RequestMapping(value = "admin/product/{pid}", method = RequestMethod.GET)
     public String goToDetailsPage(HttpSession session, Model model, @PathVariable Integer pid) {
